@@ -1,4 +1,4 @@
-# Geographic Flight Delay Minutes Visualization Project
+# Flight Delay Minutes Map Visualization Project
 
 ## Project Overview  
 This project cleans and analyzes historical flight departure delay minutes in the month of January from 2018 to 2020. These large datasets are combined along with additional geographic coordinate data, and undergo extensive data cleaning before various plots, graphs, and visualizations are made for analysis. An interactive Folium-based visualization  maps and compares the daily average departure delays across U.S. airports, highlighting temporal patterns and geographic hotspots.
